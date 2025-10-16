@@ -22,6 +22,8 @@ r - радиус вписанной окружности
 6. Конец алгоритма
 
 # БЛОК СХЕМА
+<img width="344" height="660" alt="image" src="https://github.com/user-attachments/assets/211c9e5f-5c3d-4bb1-8e1a-89820e060912" />
+
 
 ~~~
 #include <stdio.h>
